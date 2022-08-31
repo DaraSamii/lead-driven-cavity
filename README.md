@@ -16,4 +16,11 @@ A generalized class is developed for further analysis and experiments.
 * the top boudary is moving right with velocity of 1 m/s
 * the bottom boundary is moving left with velocity of 1m/s
 
-![u, v, velocity magnitude, vorticity contours](https://github.com/DaraSamii/lead-driven-cavity/blob/master/Python%20Solution%20Code/all.svg)
+![u, v, velocity magnitude, vorticity contours](https://github.com/DaraSamii/lead-driven-cavity/blob/master/Python%20Solution%20Code/all.png)
+
+
+# Matlab exported gifs
+
+![](https://github.com/DaraSamii/lead-driven-cavity/blob/master/GIF%20Output/Cavity_General_V-total.gif)
+
+![](https://github.com/DaraSamii/lead-driven-cavity/blob/master/GIF%20Output/Cavity_General_Stream%20Lines.gif)

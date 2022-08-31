@@ -1,0 +1,38 @@
+.
+├── GIF Output
+│   ├── 1.5x1.svg
+│   ├── 1x1.5.svg
+│   ├── 1x1.svg
+│   ├── 1x2.svg
+│   ├── 2x1.svg
+│   ├── Cavity_General_Stream Lines.gif
+│   ├── Cavity_General_V-total.gif
+│   ├── Cavity_General_Vorticity.gif
+│   ├── Cavity_General_u.gif
+│   ├── Cavity_General_v.gif
+│   ├── Cavity_Option8_Stream Lines.gif
+│   ├── Cavity_Option8_V-total.gif
+│   ├── Cavity_Option8_Vorticity.gif
+│   ├── Cavity_Option8_u.gif
+│   ├── Cavity_Option8_v.gif
+│   ├── u.svg
+│   ├── v.svg
+│   └── validation
+│       ├── Re100.svg
+│       ├── Re1000.svg
+│       ├── Re400.svg
+│       ├── Valid Re 1000.png
+│       ├── valid Re 100.png
+│       └── valid Re 400.png
+├── Matlab Solution Code
+│   ├── Cavity_General_Group5.m
+│   └── Cavity_Option8_Group5.m
+├── Python Solution Code
+│   ├── Cavity_Algorithm_Comparison.ipynb
+│   └── Cavity_Reynolds_Comparison.ipynb
+├── Report & Presentation Files
+│   ├── Cavity_Group5_Presentation.pdf
+│   └── Solution Method Description.pdf
+└── directory_tree.txt
+
+5 directories, 30 files
